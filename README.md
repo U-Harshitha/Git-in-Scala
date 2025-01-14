@@ -7,3 +7,6 @@ The *gittu* project is being developed using **two programming languages**: **Sc
 
 
 command to run: scala-cli run . -- init
+
+
+shebang
